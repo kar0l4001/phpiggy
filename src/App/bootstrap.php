@@ -10,16 +10,14 @@ require_once / include_once - not load file if it was already loaded
 
 require __DIR__ . "/../../vendor/autoload.php";
 
-# TODO composer nie ładuje tych plików chociarz ma je wskazane w files, bez dodaktowego importu są niewidoczne
-include __DIR__ . "/Config/Middleware.php";
-include __DIR__ . "/Config/Routes.php";
-
-use function App\Config\registerMiddleware;
-use function App\Config\registerRoutes;
 use App\Config\Paths;
 use Framework\App;
 use App\Controllers\{HomeController, AboutController};
+use Dotenv\Dotenv;
+use function App\Config\{registerMiddleware, registerRoutes};
 
+$dotenv = Dotenv::createImmutable(Paths::ROOT);
+$dotenv->load();
 
 $app = new App(Paths::SOURCE . "App/container-definitions.php");
 

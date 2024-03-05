@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfa58766-525e-4a8a-a6c7-9fcfe85c566a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/App/Config/Middleware.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/App/Config/Middleware.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/App/Config/Paths.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/App/Config/Paths.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/App/Config/Routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/App/Config/Routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/App/Controllers/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/App/Controllers/AuthController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/App/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/App/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/App/Middleware/SessionMiddleware.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/App/Middleware/SessionMiddleware.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/App/Services/ValidatorService.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/App/Services/ValidatorService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/App/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/App/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/App/container-definitions.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/App/container-definitions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/App/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/App/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/App/views/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/App/views/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/App/views/partials/_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/App/views/partials/_header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/App/views/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/App/views/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Framework/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/Framework/App.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Framework/Container.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/Framework/Container.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Framework/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/Framework/Router.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2dHbHCDYCZlBUnjQiX5df2gqgEY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/opt/lampp/htdocs/phpiggy/public/phpiggynewfolder",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfa58766-525e-4a8a-a6c7-9fcfe85c566a" name="Changes" comment="" />
+      <created>1709667860744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709667860744</updated>
+      <workItem from="1709667861760" duration="420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

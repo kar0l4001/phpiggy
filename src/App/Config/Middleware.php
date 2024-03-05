@@ -7,6 +7,8 @@ namespace App\Config;
 use Framework\App;
 use App\Controllers\{HomeController, AboutController};
 use App\Middleware\{
+    CsrfGuardMiddleware,
+    CsrfTokenMiddleware,
     TemplateDataMiddleware,
     ValidationExceptionMiddleware,
     SessionMiddleware,
@@ -15,6 +17,8 @@ use App\Middleware\{
 
 function registerMiddleware(App $app)
 {
+    $app->addMiddleware(CsrfGuardMiddleware::class);
+    $app->addMiddleware(CsrfTokenMiddleware::class);
     $app->addMiddleware(TemplateDataMiddleware::class);
     $app->addMiddleware(ValidationExceptionMiddleware::class);
     $app->addMiddleware(FlashMiddleware::class);
